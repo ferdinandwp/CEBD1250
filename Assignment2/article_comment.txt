@@ -1,0 +1,13 @@
+Comment regarding Apache Spark article:
+I am still new with this technology.
+Based on what i read, the technology consist of 2 main components which are Driver and Executor.
+
+Apache Spark is mainly used for a very large data processing.
+Spark architecture can be split into 2 which are:
+- RDD (Resilient Distributed Datasets)
+- DAG (Directed Acyclic Graph)
+
+I really look forward to learn about this in more detail in the course.
+
+
+ 
