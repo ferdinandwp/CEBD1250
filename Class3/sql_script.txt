@@ -1,0 +1,34 @@
+##Return all salaries that are between 40000 and 60000
+
+SELECT * 
+FROM salaries
+WHERE salary BETWEEN 40000 and 60000
+
+##Return all employees hired after 01-01-1995
+
+SELECT *
+FROM employee
+WHERE hire_data > 1995/01/01
+
+##Select all titles where title equal to engineer
+SELECT DISTINCT title
+FROM titles
+WHERE title LIKE '%Engineer%'
+
+##Return minimum salary
+SELECT MIN(salary)
+FROM salaries
+
+##Different between Having and Where clause
+Having clause happened within where clause
+
+
+##Return maximum value of birth date
+SELECT MAX(birth_date)
+FROM employees
+
+##why the query does not work
+the emp_no in salaries table is not unique ID. whereas the emp_no in employees table is unique ID.
+
+
+
