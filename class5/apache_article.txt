@@ -1,0 +1,10 @@
+#Article review regarding Apache Spark
+I'm really interested in Apache Spark.
+As preveiously mentioned, I would like to use this as an ETL tool at work.
+Although I'm not familiar with it, I would be interested in using it mainly as data processing tool.
+
+The following article provide a high level information on Spark.
+
+The link to the article:
+https://www.kdnuggets.com/2018/07/introduction-apache-spark.html
+
